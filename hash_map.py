@@ -4,7 +4,7 @@
 
 
 # Import pre-written DynamicArray and LinkedList classes
-from a7_include import *
+from hash_map_helper import *
 
 
 def hash_function_1(key: str) -> int:
